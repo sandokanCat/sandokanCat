@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=sandokanCat&color=yellow" />
 </p>
 
 <p align="center">
