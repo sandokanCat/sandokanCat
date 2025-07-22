@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
-  <img src="https://komarev.com/ghpvc/?username=sandokanCat&color=yellow" />
 </p>
 
 <p align="center">
@@ -56,5 +55,7 @@ M'obsesiona el codi net i funcional. Em formo a diari, tant en academies com per
 const hackThePlanet = () => { console.info("Pwned!"); };
 hackThePlanet();
 ```
+
+![Visitors](https://komarev.com/ghpvc/?username=sandokanCat&color=blue)
 
 > &copy; 2025 [sandokan.cat](https://sandokan.cat)
