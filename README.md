@@ -42,7 +42,8 @@ M'obsesiona el codi net i funcional. Em formo a diari, tant en academies com per
 ---
 
 ```js
-js // SIMPLE FUNCTION const hackThePlanet = () => { console.log("Pwned!"); }; hackThePlanet();
+// SIMPLE FUNCTION
+const hackThePlanet = () => { console.info("Pwned!"); }; hackThePlanet();
 ```
 
 > &copy; 2025 [sandokan.cat](https://sandokan.cat)
