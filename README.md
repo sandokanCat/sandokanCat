@@ -2,6 +2,10 @@
   <img src="/sandokanCat.svg" alt="sandokan.cat" />
 </p>
 
+<p align="center">
+  <i>Fullstack-in-progress • Cybersecurity Enthusiast • Clean Code Advocate</i>
+</p>
+
 # Gonzalo Cabezas Núñez
 
 ## `FRONTEND` DEVELOPER
@@ -30,7 +34,7 @@ Me obsesiona el código limpio y funcional. Me formo a diario, tanto en academia
 
 ## DESENVOLUPADOR `FRONTEND`
 
-++EN TRANSICIÓ A `FULLSTACK`
+**EN TRANSICIÓ A `FULLSTACK`**
 
 M'obsesiona el codi net i funcional. Em formo a diari, tant en academies com per lliure, perquè el coneixement no s'acaba quan sona el timbre. M'agrada trencar coses per entendre-les (i arreglar-les millor), per això el Red Team em crida fort. No segueixo el camí estàndard; prefereixo traçar el meu amb teclat i cafè. Busco projectes on pugui aprendre, aportar i deixar empremta, sense postureigs ni promeses buides. Si no sé alguna cosa, la investigo. I si alguna cosa em motiva, no paro fins a fer-ho bé.
 
