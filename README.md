@@ -2,8 +2,8 @@
 
 # Gonzalo Cabezas Núñez
 
-![Sandokan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandokan-cat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandokan-cat&layout=compact&theme=radical)
+![Sandokan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical)
 
 <p align="center">
   <i>Fullstack-in-progress • Cybersecurity Enthusiast • Clean Code Advocate</i>
