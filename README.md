@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="/sandokanCat.svg" alt="sandokan.cat" />
-</p>
+![Header](./sandokanCat.svg)
 
 # Gonzalo Cabezas Núñez
+
+![Sandokan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandokan-cat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandokan-cat&layout=compact&theme=radical)
 
 <p align="center">
   <i>Fullstack-in-progress • Cybersecurity Enthusiast • Clean Code Advocate</i>
 </p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## `FRONTEND` DEVELOPER
 
@@ -35,5 +40,7 @@ M'obsesiona el codi net i funcional. Em formo a diari, tant en academies com per
 </details>
 
 ---
+
+<pre> ```js // SIMPLE FUNCTION const hackThePlanet = () => { console.log("Pwned!"); }; hackThePlanet(); ``` </pre>
 
 > &copy; 2025 [sandokan.cat](https://sandokan.cat)
