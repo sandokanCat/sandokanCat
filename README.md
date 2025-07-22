@@ -4,18 +4,11 @@
 
 # Gonzalo Cabezas Núñez
 
----
-
-<details>
-<summary>English</summary>
-
 ## `FRONTEND` DEVELOPER
 
-++TRANSITIONING TO `FULLSTACK`++
+**TRANSITIONING TO `FULLSTACK`**
 
 I’m obsessed with clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
-
-</details>
 
 ---
 
