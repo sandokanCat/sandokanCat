@@ -2,13 +2,12 @@
 
 # Gonzalo Cabezas Núñez
 
-![Sandokan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical)
-
 <p align="center">
   <i>Fullstack-in-progress • Cybersecurity Enthusiast • Clean Code Advocate</i>
 </p>
 
+![Sandokan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,6 +40,8 @@ M'obsesiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ---
 
-<pre> ```js // SIMPLE FUNCTION const hackThePlanet = () => { console.log("Pwned!"); }; hackThePlanet(); ``` </pre>
+```js
+js // SIMPLE FUNCTION const hackThePlanet = () => { console.log("Pwned!"); }; hackThePlanet();
+```
 
 > &copy; 2025 [sandokan.cat](https://sandokan.cat)
