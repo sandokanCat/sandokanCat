@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=onedark" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -51,7 +51,7 @@ M'obsesiona el codi net i funcional. Em formo a diari, tant en academies com per
 ---
 
 ```js
-// SIMPLE FUNCTION
+// SIMPLE FUNCTION ⚡
 const hackThePlanet = () => { console.info("Pwned!"); };
 hackThePlanet();
 ```
