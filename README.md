@@ -56,6 +56,4 @@ const hackThePlanet = () => { console.info("Pwned!"); };
 hackThePlanet();
 ```
 
-![Visitors](https://komarev.com/ghpvc/?username=sandokanCat&color=blue)
-
-> &copy; 2025 [sandokan.cat](https://sandokan.cat)
+> &copy; 2025 [sandokan.cat](https://sandokan.cat) ![Visitors](https://komarev.com/ghpvc/?username=sandokanCat&color=darkyellow)
