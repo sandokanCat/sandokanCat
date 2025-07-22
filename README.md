@@ -1,3 +1,5 @@
+[sandokan.cat](/banner.svg)
+
 # Gonzalo Cabezas Núñez
 
 ## DESARROLLADOR `FRONTEND`
