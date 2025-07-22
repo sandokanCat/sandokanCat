@@ -1,11 +1,8 @@
 <svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="matrix-gradient" x1="0" x2="0" y1="0" y2="1">
-      <stop offset="0%" stop-color="#00ff00" />
-      <stop offset="100%" stop-color="#007700" />
-    </linearGradient>
-    <filter id="matrix-glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+    <!-- Resplandor dorado para el alias -->
+    <filter id="gold-glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -13,25 +10,25 @@
     </filter>
   </defs>
 
+  <!-- Fondo negro -->
   <rect width="1200" height="400" fill="#000"/>
 
-  <!-- Fondo de código animado -->
-  <text x="10%" y="-10%" font-family="monospace" font-size="40" fill="rgba(0,255,0,0.1)">
-    101101010010111001011010
-    <animate attributeName="y" from="-10%" to="110%" dur="5s" repeatCount="indefinite"/>
-  </text>
-  <text x="40%" y="-30%" font-family="monospace" font-size="35" fill="rgba(0,255,0,0.08)">
-    root@matrix$> hack_the_planet
-    <animate attributeName="y" from="-30%" to="130%" dur="7s" repeatCount="indefinite"/>
-  </text>
-  <text x="70%" y="-50%" font-family="monospace" font-size="45" fill="rgba(0,255,0,0.1)">
-    011011010111
-    <animate attributeName="y" from="-50%" to="150%" dur="6s" repeatCount="indefinite"/>
-  </text>
+  <!-- Capa de código difuso (más letras) -->
+  <g font-family="monospace" font-size="26" fill="rgba(0,255,0,0.18)">
+    <text x="5%"  y="10%">0101011010010110011010100110</text>
+    <text x="20%" y="20%">1011100110010101011010110010</text>
+    <text x="40%" y="15%">0110101011100100101101011011</text>
+    <text x="60%" y="30%">1011010101110010110100101101</text>
+    <text x="80%" y="25%">0101011010110101011010110110</text>
+    <text x="10%" y="50%">root@matrix:~# decode</text>
+    <text x="30%" y="60%">1100101011010110010110101100</text>
+    <text x="50%" y="70%">const hack_the_planet = true;</text>
+    <text x="70%" y="80%">1011010110100101101011010010</text>
+  </g>
 
-  <!-- Texto principal -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="monospace" font-size="75" fill="url(#matrix-gradient)" filter="url(#matrix-glow)">
+  <!-- Alias principal -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-family="monospace" font-size="120" fill="#ffcc00" filter="url(#gold-glow)">
     sandokan.cat
   </text>
 </svg>
