@@ -1,4 +1,4 @@
-![Header](./sandokanCat.svg)
+![Header](./sandokanCat.svg?v=1.0)
 
 # Gonzalo Cabezas Núñez
 
