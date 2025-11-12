@@ -3,7 +3,7 @@
 # Gonzalo Cabezas Núñez
 
 <p align="center">
-  <i>Fullstack-in-progress • Cybersecurity Enthusiast • Clean Code Advocate</i>
+  <i>Fullstack Web Developer • Cybersecurity Enthusiast • Clean Code Advocate</i>
 </p>
 
 <p align="center">
