@@ -26,14 +26,14 @@
 <img src="https://img.shields.io/badge/Apache-CA0000?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-## `FULLSTACK` WEB DEVELOPER
+## 🇬🇧 `FULLSTACK` WEB DEVELOPER
 
 I’m passionate with clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
 
 ---
 
 <details>
-<summary>Español</summary>
+<summary>🇪🇸 Español</summary>
   
 ## DESARROLLADOR WEB `FULLSTACK`
 
@@ -44,7 +44,7 @@ Me apasiona el código limpio y funcional. Me formo a diario, tanto en academias
 ---
 
 <details>
-<summary>Català</summary>
+<summary>🇦🇩 Català</summary>
 
 ## DESENVOLUPADOR WEB `FULLSTACK`
 
@@ -55,7 +55,7 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 ---
 
 <details>
-<summary>Русский</summary>
+<summary>🇷🇺 Русский</summary>
 
 ## `FULLSTACK` ВЕБ‑РАЗРАБОТЧИК
 
@@ -66,7 +66,7 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 ---
 
 <details>
-<summary>العربية</summary>
+<summary>العربية 🇸🇦</summary>
 
 ## `FULLSTACK` مطوّر ويب
 
@@ -77,7 +77,7 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 ---
 
 <details>
-<summary>中文（简体）</summary>
+<summary>🇨🇳 中文（简体）</summary>
 
 ## `FULLSTACK` 全栈网页开发者
 
