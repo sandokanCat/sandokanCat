@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -49,6 +48,39 @@ Me apasiona el código limpio y funcional. Me formo a diario, tanto en academias
 ## DESENVOLUPADOR WEB `FULLSTACK`
 
 M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per lliure, perquè el coneixement no s'acaba quan sona el timbre. M'agrada trencar coses per entendre-les (i arreglar-les millor), per això el Red Team em crida fort. No segueixo el camí estàndard; prefereixo traçar el meu amb teclat i cafè. Busco projectes on pugui aprendre, aportar i deixar empremta, sense postureigs ni promeses buides. Si no sé alguna cosa, la investigo. I si alguna cosa em motiva, no paro fins a fer-ho bé.
+
+</details>
+
+---
+
+<details>
+<summary>Русский</summary>
+
+## `FULLSTACK` ВЕБ‑РАЗРАБОТЧИК
+
+Меня вдохновляет чистый и функциональный код. Я обучаюсь каждый день — как на курсах, так и самостоятельно — потому что обучение не заканчивается, когда звенит звонок. Мне нравится ломать вещи, чтобы лучше понять (и починить) их, поэтому направление Red Team так сильно меня привлекает. Я не следую стандартному пути; предпочитаю прокладывать свой собственный — с клавиатурой и кофе. Я ищу проекты, где могу учиться, вносить вклад и оставлять след — без позёрства и пустых обещаний. Если я чего‑то не знаю, я изучаю это. А если что‑то меня мотивирует, я не останавливаюсь, пока не сделаю всё правильно.
+
+</details>
+
+---
+
+<details>
+<summary>العربية</summary>
+
+## `FULLSTACK` مطوّر ويب
+
+أنا شغوف بالشفرة النظيفة والوظيفية. أتدرّب يومياً، سواء من خلال الدورات الرسمية أو التعلّم الذاتي، لأن التعلّم لا ينتهي عند جرس النهاية. أحبّ كسر الأشياء لأفهمها (ولإصلاحها بشكل أفضل)، ولهذا يجذبني مجال الـRed Team بشدة. لا أسير في الطريق المعتاد؛ بل أفضّل رسم طريقي الخاص باستخدام لوحة المفاتيح وفنجان القهوة. أبحث عن مشاريع أستطيع فيها التعلّم والمساهمة وترك أثر — دون استعراض أو وعود فارغة. إن لم أعرف شيئاً، أبحث عنه. وإذا حمسني شيء، فلن أتوقف حتى أتقنه تماماً.
+
+</details>
+
+---
+
+<details>
+<summary>中文（简体）</summary>
+
+## `FULLSTACK` 全栈网页开发者
+
+我热爱干净、功能明确的代码。我每天都在学习——包括正式课程和自学——因为学习不会在下课铃响时停止。我喜欢把东西“拆开”来理解它们（也能更好地修复），这也是 Red Team 吸引我的原因。我不走传统路线；我更喜欢靠键盘和咖啡走出自己的道路。我寻找能够让我学习、贡献并留下印记的项目——不做作、不空谈。如果我不懂某件事，我就深入研究。而如果某件事激励了我，我会坚持到底，直到把它做到最好。
 
 </details>
 
