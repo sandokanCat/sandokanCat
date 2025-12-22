@@ -97,7 +97,9 @@
         fill="remove" />
 
     <!-- NICKNAME TYPING EFFECT -->
-    <text x="27" y="60%"
+    <text x="50%" y="50%"
+        text-anchor="middle"
+        dominant-baseline="middle"
         font-family="monospace"
         font-size="140"
         fill="#ffcc00"
