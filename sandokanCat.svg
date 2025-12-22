@@ -1,180 +1,181 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 
-<svg width="100%" height="33.33%"
-    viewBox="0 0 1200 400"
+<svg viewBox="0 0 1200 400"
     preserveAspectRatio="xMidYMid meet"
-    font-size="25px"
+    role="img"
+    aria-label="sandokan.cat"
     xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    version="1.1">
+    version="1.1"
+    xml:space="preserve">
+
+    <title>sandokan.cat</title>
 
     <!-- YELLOW GLOW -->
     <defs>
         <filter id="gold-glow">
-        <feGaussianBlur stdDeviation="5" result="blur"/>
+        <feGaussianBlur stdDeviation="5" result="blur" />
         <feMerge>
-            <feMergeNode in="blur"/>
-            <feMergeNode in="SourceGraphic"/>
+            <feMergeNode in="blur" />
+            <feMergeNode in="SourceGraphic" />
         </feMerge>
         </filter>
     </defs>
 
     <!-- BLACK BACKGROUND -->
-    <rect width="100%" height="100%" fill="#000"/>
+    <rect width="100%" height="100%" fill="#000" />
 
     <!-- MATRIX RAIN BACKGROUND -->
-    <g font-family="monospace" font-size="1.04em" fill="rgba(0,255,0,0.20)">
+    <g font-family="monospace"
+        font-size="1.04em"
+        fill="rgb(0,255,0)"
+        fill-opacity="0.2">
+
         <text x="-3%"  y="-40">0101011010010110011010100110
-            <animate attributeName="y" from="-40" to="440" dur="4.2s" begin="0s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-40" to="440" dur="4.2s" begin="0s" repeatCount="indefinite" />
         </text>
         <text x="20%" y="-160">kali@matrix:~# nmap -A 10.0.0.1
-            <animate attributeName="y" from="-160" to="460" dur="5.5s" begin="1s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-160" to="460" dur="5.5s" begin="1s" repeatCount="indefinite" />
         </text>
         <text x="40%" y="-80">&lt;h1&gt;Hello world!&lt;/h1&gt;
-            <animate attributeName="y" from="-80" to="440" dur="3.8s" begin="0.5s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-80" to="440" dur="3.8s" begin="0.5s" repeatCount="indefinite" />
         </text>
         <text x="-10%" y="-100">1011010101110010110100101101
-            <animate attributeName="y" from="-100" to="450" dur="4.8s" begin="0.2s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-100" to="450" dur="4.8s" begin="0.2s" repeatCount="indefinite" />
         </text>
         <text x="65%" y="-60">private Class f*ckSocialism
-            <animate attributeName="y" from="-60" to="430" dur="4.0s" begin="1.3s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-60" to="430" dur="4.0s" begin="1.3s" repeatCount="indefinite" />
         </text>
         <text x="10%" y="-220">GET /api/users HTTP/1.1
-            <animate attributeName="y" from="-220" to="460" dur="6.0s" begin="0.7s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-220" to="460" dur="6.0s" begin="0.7s" repeatCount="indefinite" />
         </text>
         <text x="30%" y="-140">011011001101010101101011
-            <animate attributeName="y" from="-140" to="450" dur="5.0s" begin="1.8s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-140" to="450" dur="5.0s" begin="1.8s" repeatCount="indefinite" />
         </text>
         <text x="51%" y="-200">h1 { color: yellow; }
-            <animate attributeName="y" from="-200" to="460" dur="6.2s" begin="0.4s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-200" to="460" dur="6.2s" begin="0.4s" repeatCount="indefinite" />
         </text>
         <text x="57%" y="-180">curl -X POST https://api
-            <animate attributeName="y" from="-180" to="455" dur="5.7s" begin="1.1s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-180" to="455" dur="5.7s" begin="1.1s" repeatCount="indefinite" />
         </text>
         <text x="2%"  y="-100">while(true) { attack(); }
-            <animate attributeName="y" from="-100" to="445" dur="4.9s" begin="0.9s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-100" to="445" dur="4.9s" begin="0.9s" repeatCount="indefinite" />
         </text>
         <text x="25%" y="-260">#include &lt;stdio.h&gt;
-            <animate attributeName="y" from="-260" to="470" dur="6.5s" begin="0.3s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-260" to="470" dur="6.5s" begin="0.3s" repeatCount="indefinite" />
         </text>
         <text x="55%" y="-300">ssh user@192.168.1.10
-            <animate attributeName="y" from="-300" to="480" dur="7.0s" begin="1.5s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-300" to="480" dur="7.0s" begin="1.5s" repeatCount="indefinite" />
         </text>
         <text x="7%"  y="-180">const hack_the_planet = true;
-            <animate attributeName="y" from="-180" to="455" dur="5.4s" begin="0.6s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-180" to="455" dur="5.4s" begin="0.6s" repeatCount="indefinite" />
         </text>
         <text x="33%" y="-120">pip install requests
-            <animate attributeName="y" from="-120" to="445" dur="4.6s" begin="2s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-120" to="445" dur="4.6s" begin="2s" repeatCount="indefinite" />
         </text>
         <text x="63%" y="-240">alert('pwned!');
-            <animate attributeName="y" from="-240" to="465" dur="6.1s" begin="0.8s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-240" to="465" dur="6.1s" begin="0.8s" repeatCount="indefinite" />
         </text>
         <text x="80%" y="-200">DROP TABLE users;
-            <animate attributeName="y" from="-200" to="460" dur="5.9s" begin="1.7s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-200" to="460" dur="5.9s" begin="1.7s" repeatCount="indefinite" />
         </text>
         <text x="85%" y="-60">010101010101010101010101
-            <animate attributeName="y" from="-60" to="430" dur="4.3s" begin="2.3s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-60" to="430" dur="4.3s" begin="2.3s" repeatCount="indefinite" />
         </text>
         <text x="45%" y="-320">function exploit() { return 0; }
-            <animate attributeName="y" from="-320" to="485" dur="7.3s" begin="0.1s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-320" to="485" dur="7.3s" begin="0.1s" repeatCount="indefinite" />
         </text>
         <text x="70%" y="-280">SELECT * FROM passwords;
-            <animate attributeName="y" from="-280" to="475" dur="6.8s" begin="1.9s" repeatCount="indefinite"/>
+            <animate attributeName="y" from="-280" to="475" dur="6.8s" begin="1.9s" repeatCount="indefinite" />
         </text>
     </g>
 
+    <!-- MAIN CYCLE -->
+    <animate id="cycle"
+        attributeName="visibility"
+        values="visible;visible"
+        dur="10s"
+        begin="0s;cycle.end"
+        fill="remove" />
+
     <!-- NICKNAME TYPING EFFECT -->
-    <text x="50%" y="55%" font-family="monospace" font-size="6em"
-            fill="#ffcc00" text-anchor="middle" dominant-baseline="middle"
-            letter-spacing="-40px" filter="url(#gold-glow)">
-        <tspan opacity="0">s <!-- S -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+0s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+9.2s" dur="0.1s" fill="freeze" />
+    <text x="27" y="60%"
+        font-family="monospace"
+        font-size="140"
+        fill="#ffcc00"
+        letter-spacing="-0.28em"
+        filter="url(#gold-glow)">
+
+        <!-- S -->
+        <tspan opacity="0">s
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+0s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+9.2s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">a <!-- A -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+0.2s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+9.0s" dur="0.1s" fill="freeze" />
+        <!-- A -->
+        <tspan opacity="0">a
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+0.2s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+9.0s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">n <!-- N -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+0.4s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+8.8s" dur="0.1s" fill="freeze" />
+        <!-- N -->
+        <tspan opacity="0">n
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+0.4s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+8.8s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">d <!-- D -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+0.6s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+8.6s" dur="0.1s" fill="freeze" />
+        <!-- D -->
+        <tspan opacity="0">d
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+0.6s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+8.6s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">o <!-- O -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+0.8s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+8.4s" dur="0.1s" fill="freeze" />
+        <!-- O -->
+        <tspan opacity="0">o
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+0.8s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+8.4s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">k <!-- K -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+1.0s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+8.2s" dur="0.1s" fill="freeze" />
+        <!-- K -->
+        <tspan opacity="0">k
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+1.0s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+8.2s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">a <!-- A -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+1.2s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+8.0s" dur="0.1s" fill="freeze" />
+        <!-- A -->
+        <tspan opacity="0">a
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+1.2s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+8.0s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">n <!-- N -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+1.4s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+7.8s" dur="0.1s" fill="freeze" />
+        <!-- N -->
+        <tspan opacity="0">n
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+1.4s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+7.8s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">. <!-- DOT -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+1.6s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+7.6s" dur="0.1s" fill="freeze" />
+        <!-- DOT -->
+        <tspan opacity="0">.
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+1.6s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+7.6s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">c <!-- C -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+1.8s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+7.4s" dur="0.1s" fill="freeze" />
+        <!-- C -->
+        <tspan opacity="0">c
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+1.8s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+7.4s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">a <!-- A -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+2.0s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+7.2s" dur="0.1s" fill="freeze" />
+        <!-- A -->
+        <tspan opacity="0">a
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+2.0s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+7.2s" dur="0.1s" fill="freeze" />
         </tspan>
-        <tspan opacity="0">t <!-- T -->
-        <animate attributeName="opacity"
-                values="0;1" begin="cycle.begin+2.2s" dur="0.1s" fill="freeze" />
-        <animate attributeName="opacity"
-                values="1;0" begin="cycle.begin+7.0s" dur="0.1s" fill="freeze" />
+        <!-- T -->
+        <tspan opacity="0">t
+            <animate attributeName="opacity" values="0;1" begin="cycle.begin+2.2s" dur="0.1s" fill="freeze" />
+            <animate attributeName="opacity" values="1;0" begin="cycle.begin+7.0s" dur="0.1s" fill="freeze" />
         </tspan>
 
         <!-- CURSOR -->
         <tspan fill="#fff" opacity="0">|
-        <animate attributeName="opacity"
+            <animate attributeName="opacity"
                 values="0;1;0;1;0;1;0;1;0;1;0"
                 keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"
                 dur="4.6s"
                 begin="cycle.begin+2.4s"
                 fill="freeze"
-                repeatCount="1"/>
+                repeatCount="1" />
         </tspan>
 
-        <!-- MAIN CYCLE -->
-        <animate id="cycle" attributeName="visibility"
-                values="visible;visible" dur="10s"
-                begin="0s;cycle.end" fill="remove"/>
     </text>
 </svg>

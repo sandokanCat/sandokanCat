@@ -1,30 +1,32 @@
-![Header](./sandokanCat.svg?v=1.0)
+![Header](./sandokanCat.svg?v=1.1)
 
 # Gonzalo Cabezas Núñez
 
-<p align="center">
-  <i>Fullstack Web Developer • Cybersecurity Enthusiast • Clean Code Advocate</i>
-</p>
+<div align="center">
+    <em>Fullstack Web Developer • Cybersecurity Enthusiast • Clean Code Advocate</em>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
- <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache-CA0000?style=for-the-badge&logo=apache&logoColor=white" />
-</p>
+<div align="center">
+    <img src="./icons/html5.svg" />
+    <img src="./icons/css3.svg" />
+    <img src="./icons/js.svg" />
+    <img src="./icons/json.svg" />
+    <img src="./icons/ajax.svg" />
+    <img src="./icons/php.svg" />
+    <img src="./icons/mysql.svg" />
+    <img src="./icons/mariadb.svg" />
+    <img src="./icons/xml.svg" />
+    <img src="./icons/xhtml.svg" />
+    <img src="./icons/java.svg" />
+    <img src="./icons/python.svg" />
+    <img src="./icons/c.svg" />
+    <img src="./icons/apache.svg" />
+</div>
 
 ## 🇬🇧 `FULLSTACK` WEB DEVELOPER
 
@@ -34,7 +36,7 @@ I’m passionate with clean, functional code. I train every day—both through f
 
 <details>
 <summary>🇪🇸 Español</summary>
-  
+
 ## DESARROLLADOR WEB `FULLSTACK`
 
 Me apasiona el código limpio y funcional. Me formo a diario, tanto en academias como por libre, porque el conocimiento no se acaba cuando suena el timbre. Me gusta romper cosas para entenderlas (y arreglarlas mejor), por eso el Red Team me llama fuerte. No sigo el camino estándar; prefiero trazar el mío con teclado y café. Busco proyectos donde pueda aprender, aportar y dejar huella, sin postureos ni promesas vacías. Si algo no lo sé, lo investigo. Y si algo me motiva, no paro hasta hacerlo bien.
@@ -95,4 +97,6 @@ hackThePlanet();
 
 > &copy; 2025 [sandokan.cat](https://sandokan.cat)
 
-![Visitors](https://komarev.com/ghpvc/?username=sandokanCat&color=yellow)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=sandokanCat&color=yellow">
+</div>
