@@ -2,9 +2,9 @@
 
 # Gonzalo Cabezas Núñez
 
-<div align="center">
+<p align="center">
     <em>Fullstack Web Developer • Cybersecurity Enthusiast • Clean Code Advocate</em>
-</div>
+</p>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
