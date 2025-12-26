@@ -12,11 +12,11 @@
     <!-- YELLOW GLOW -->
     <defs>
         <filter id="gold-glow">
-        <feGaussianBlur stdDeviation="5" result="blur" />
-        <feMerge>
-            <feMergeNode in="blur" />
-            <feMergeNode in="SourceGraphic" />
-        </feMerge>
+            <feGaussianBlur stdDeviation="5" result="blur" />
+            <feMerge>
+                <feMergeNode in="blur" />
+                <feMergeNode in="SourceGraphic" />
+            </feMerge>
         </filter>
     </defs>
 
