@@ -18,7 +18,7 @@
     <img src="./icons/json.svg" />
     <img src="./icons/ajax.svg" />
     <img src="./icons/php.svg" />
-    <img src="./icons/mysql.svg" />
+    <img src="./icons/sql.svg" />
     <img src="./icons/mariadb.svg" />
     <img src="./icons/xml.svg" />
     <img src="./icons/xhtml.svg" />
