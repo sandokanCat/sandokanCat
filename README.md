@@ -6,31 +6,48 @@
     <em>Fullstack Web Developer • Cybersecurity Enthusiast • Clean Code Advocate</em>
 </p>
 
+<h2 align="center">Frontend</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
+    <img src="./skills/frontend/html5.svg" />
+    <img src="./skills/frontend/css3.svg" />
+    <img src="./skills/frontend/js.svg" />
 </div>
 
+<h2 align="center">Backend</h2>
 <div align="center">
-    <img src="./icons/html5.svg" />
-    <img src="./icons/css3.svg" />
-    <img src="./icons/js.svg" />
-    <img src="./icons/json.svg" />
-    <img src="./icons/ajax.svg" />
-    <img src="./icons/php.svg" />
-    <img src="./icons/sql.svg" />
-    <img src="./icons/mariadb.svg" />
-    <img src="./icons/xml.svg" />
-    <img src="./icons/xhtml.svg" />
-    <img src="./icons/java.svg" />
-    <img src="./icons/python.svg" />
-    <img src="./icons/c.svg" />
-    <img src="./icons/apache.svg" />
+    <img src="./skills/backend/php.svg" />
+    <img src="./skills/backend/java.svg" />
+    <img src="./skills/backend/python.svg" />
+    <img src="./skills/backend/c.svg" />
 </div>
+
+<h2 align="center">Data / Formats</h2>
+<div align="center">
+    <img src="./skills/data/json.svg" />
+    <img src="./skills/data/xml.svg" />
+</div>
+
+<h2 align="center">Databases</h2>
+<div align="center">
+    <img src="./skills/databases/sql.svg" />
+    <img src="./skills/databases/mariadb.svg" />
+</div>
+
+<h2 align="center">Infrastructure / Server</h2>
+<div align="center">
+    <img src="./skills/infrastructure/apache.svg" />
+</div>
+
+---
 
 ## 🇬🇧 `FULLSTACK` WEB DEVELOPER
 
 I’m passionate with clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
+</div>
 
 ---
 
@@ -95,7 +112,7 @@ const hackThePlanet = () => { console.info("Pwned!"); };
 hackThePlanet();
 ```
 
-> &copy; 2025 [sandokan.cat](https://sandokan.cat)
+> &copy; 2026 [sandokan.cat](https://sandokan.cat)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sandokanCat&color=yellow">
