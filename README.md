@@ -15,10 +15,10 @@
 
 <h2 align="center">Backend</h2>
 <div align="center">
-    <img src="./skills/backend/php.svg" />
-    <img src="./skills/backend/python.svg" />
-    <img src="./skills/backend/java.svg" />
-    <img src="./skills/backend/c.svg" />
+    <img height="28" src="./skills/backend/php.svg" />
+    <img height="28" src="./skills/backend/python.svg" />
+    <img height="28" src="./skills/backend/java.svg" />
+    <img height="28" src="./skills/backend/c.svg" />
 </div>
 
 <h2 align="center">Data / Formats</h2>
