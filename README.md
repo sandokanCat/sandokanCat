@@ -8,9 +8,9 @@
 
 <h2 align="center">Frontend</h2>
 <div align="center">
-    <img src="./skills/frontend/html5.svg" />
-    <img src="./skills/frontend/css3.svg" />
-    <img src="./skills/frontend/js.svg" />
+    <img height="28" src="./skills/frontend/html5.svg" />
+    <img height="28" src="./skills/frontend/css3.svg" />
+    <img height="28" src="./skills/frontend/js.svg" />
 </div>
 
 <h2 align="center">Backend</h2>
@@ -23,19 +23,19 @@
 
 <h2 align="center">Data / Formats</h2>
 <div align="center">
-    <img src="./skills/data/json.svg" />
-    <img src="./skills/data/xml.svg" />
+    <img height="28" src="./skills/data/json.svg" />
+    <img height="28" src="./skills/data/xml.svg" />
 </div>
 
 <h2 align="center">Databases</h2>
 <div align="center">
-    <img src="./skills/databases/sql.svg" />
-    <img src="./skills/databases/mariadb.svg" />
+    <img height="28" src="./skills/databases/sql.svg" />
+    <img height="28" src="./skills/databases/mariadb.svg" />
 </div>
 
 <h2 align="center">Infrastructure / Server</h2>
 <div align="center">
-    <img src="./skills/infrastructure/apache.svg" />
+    <img height="28" src="./skills/infrastructure/apache.svg" />
 </div>
 
 ---
