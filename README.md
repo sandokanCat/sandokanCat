@@ -8,34 +8,34 @@
 
 <h2 align="center">Frontend</h2>
 <div align="center">
-    <img height="28" src="./skills/frontend/html5.svg" />
-    <img height="28" src="./skills/frontend/css3.svg" />
-    <img height="28" src="./skills/frontend/js.svg" />
+    <img height="28" src="./skills/frontend/html5.svg" alt="HTML5" />
+    <img height="28" src="./skills/frontend/css3.svg" alt="CSS3" />
+    <img height="28" src="./skills/frontend/js.svg" alt="JS" />
 </div>
 
 <h2 align="center">Backend</h2>
 <div align="center">
-    <img height="28" src="./skills/backend/php.svg" />
-    <img height="28" src="./skills/backend/python.svg" />
-    <img height="28" src="./skills/backend/java.svg" />
-    <img height="28" src="./skills/backend/c.svg" />
+    <img height="28" src="./skills/backend/php.svg" alt="PHP" />
+    <img height="28" src="./skills/backend/python.svg" alt="Python" />
+    <img height="28" src="./skills/backend/java.svg" alt="Java" />
+    <img height="28" src="./skills/backend/c.svg" alt="C" />
 </div>
 
 <h2 align="center">Data / Formats</h2>
 <div align="center">
-    <img height="28" src="./skills/data/json.svg" />
-    <img height="28" src="./skills/data/xml.svg" />
+    <img height="28" src="./skills/data/json.svg" alt="JSON" />
+    <img height="28" src="./skills/data/xml.svg" alt="XML" />
 </div>
 
 <h2 align="center">Databases</h2>
 <div align="center">
-    <img height="28" src="./skills/databases/sql.svg" />
-    <img height="28" src="./skills/databases/mariadb.svg" />
+    <img height="28" src="./skills/databases/sql.svg" alt="SQL" />
+    <img height="28" src="./skills/databases/mariadb.svg" alt="MariaDB" />
 </div>
 
 <h2 align="center">Infrastructure / Server</h2>
 <div align="center">
-    <img height="28" src="./skills/infrastructure/apache.svg" />
+    <img height="28" src="./skills/infrastructure/apache.svg" alt="Apache" />
 </div>
 
 ---
@@ -45,8 +45,8 @@
 I’m passionate with clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" alt="GitHub stats" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
 ### ⚖️ Licensing
