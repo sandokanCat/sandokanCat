@@ -45,8 +45,8 @@
 I’m passionate with clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
 
 <div align="center">
-    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&theme=radical" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&show_icons=true&bg_color=00000000&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&border_color=545454" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&layout=compact&bg_color=00000000&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&border_color=545454" alt="Most Used Languages" />
 </div>
 
 ### ⚖️ Licensing
