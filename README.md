@@ -51,7 +51,7 @@ I’m passionate with clean, functional code. I train every day—both through f
 
 ### ⚖️ Licensing
 
-> [!NOTE]
+> [!NOTE](⚖️ Licensing)
 >- 🖼️ SVG badges inside the `/skills/` directory are licensed under the [MIT](https://opensource.org/license/mit) License.
 >- 👤 All other content in this repository is © [sandokan.cat](https://sandokan.cat). All rights reserved.
 
@@ -66,6 +66,7 @@ Me apasiona el código limpio y funcional. Me formo a diario, tanto en academias
 
 ### ⚖️ Licencia
 
+> [!NOTE]
 >- 🖼️ Los badges SVG dentro del directorio `/skills/` están licenciados bajo licencia [MIT](https://opensource.org/license/mit).
 >- 👤 Todo el resto del contenido de este repositorio es © [sandokan.cat](https://sandokan.cat). Todos los derechos reservados.
 
@@ -82,6 +83,7 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ Llicència
 
+> [!NOTE]
 >- 🖼️ Els badges SVG dins del directori `/skills/` estan sota llicència [MIT](https://opensource.org/license/mit).
 >- 👤 La resta del contingut d’aquest repositori és © [sandokan.cat](https://sandokan.cat). Tots els drets reservats.
 
@@ -98,6 +100,7 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ Лицензия
 
+> [!NOTE]
 >- 🖼️ SVG-бейджи в директории `/skills/` лицензированы по [MIT](https://opensource.org/license/mit).
 >- 👤 Весь остальной контент этого репозитория © [sandokan.cat](https://sandokan.cat). Все права защищены.
 
@@ -114,6 +117,7 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ الترخيص
 
+> [!NOTE]
 >- 🖼️ شارات SVG داخل مجلد `/skills/` مرخصة بموجب [MIT](https://opensource.org/license/mit).
 >- 👤 جميع المحتويات الأخرى في هذا المستودع © [sandokan.cat](https://sandokan.cat). جميع الحقوق محفوظة.
 
@@ -130,6 +134,7 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ 许可
 
+> [!NOTE]
 >- 🖼️ `/skills/` 目录下的 SVG 徽章使用 [MIT](https://opensource.org/license/mit) 许可。
 >- 👤 本仓库的其他所有内容均 © [sandokan.cat](https://sandokan.cat)。保留所有权利。
 
