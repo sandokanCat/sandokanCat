@@ -51,7 +51,7 @@ I’m passionate with clean, functional code. I train every day—both through f
 
 ### ⚖️ Licensing
 
-> [!NOTE](⚖️ Licensing)
+> [!NOTE]
 >- 🖼️ SVG badges inside the `/skills/` directory are licensed under the [MIT](https://opensource.org/license/mit) License.
 >- 👤 All other content in this repository is © [sandokan.cat](https://sandokan.cat). All rights reserved.
 
