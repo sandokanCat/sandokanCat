@@ -42,11 +42,11 @@
 
 ## 🇬🇧 `FULLSTACK` WEB DEVELOPER
 
-I’m passionate with clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
+I’m passionate about clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
 
 <div align="center">
     <!-- GH STATES -->
-    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&custom_title=sandokanCat+GitHub+Stats&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&border_radius=0&border_color=545454&bg_color=000000&icon_color=ffcc00&ring_color=ffcc00&title_color=ffcc00&text_color=f0f0f0" style="display: block;"alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&custom_title=sandokanCat%20GitHub%20Stats&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&border_radius=0&border_color=545454&bg_color=000000&icon_color=ffcc00&ring_color=ffcc00&title_color=ffcc00&text_color=f0f0f0" style="display: block;"alt="GitHub Stats" />
     <!-- TOP LANGS -->
     <img src="https://github-readme-stats-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&cache_seconds=1800&langs_count=20&layout=compact&border_radius=0&border_color=545454&bg_color=000000&title_color=ffcc00&text_color=f0f0f0&card_width=467" style="display: block;" alt="Most Used Languages" />
 </div>
@@ -55,6 +55,12 @@ I’m passionate with clean, functional code. I train every day—both through f
 
 >- 🖼️ SVG badges inside the `/skills/` directory are licensed under the [MIT](https://opensource.org/license/mit) License.
 >- 👤 All other content in this repository is © [sandokan.cat](https://sandokan.cat). All rights reserved.
+
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
 
 ---
 
@@ -69,6 +75,12 @@ Me apasiona el código limpio y funcional. Me formo a diario, tanto en academias
 
 >- 🖼️ Los badges SVG dentro del directorio `/skills/` están licenciados bajo licencia [MIT](https://opensource.org/license/mit).
 >- 👤 Todo el resto del contenido de este repositorio es © [sandokan.cat](https://sandokan.cat). Todos los derechos reservados.
+
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
 
 </details>
 
@@ -86,6 +98,12 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 >- 🖼️ Els badges SVG dins del directori `/skills/` estan sota llicència [MIT](https://opensource.org/license/mit).
 >- 👤 La resta del contingut d’aquest repositori és © [sandokan.cat](https://sandokan.cat). Tots els drets reservats.
 
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
+
 </details>
 
 ---
@@ -101,6 +119,12 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 >- 🖼️ SVG-бейджи в директории `/skills/` лицензированы по [MIT](https://opensource.org/license/mit).
 >- 👤 Весь остальной контент этого репозитория © [sandokan.cat](https://sandokan.cat). Все права защищены.
+
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
 
 </details>
 
@@ -118,6 +142,12 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 >- 🖼️ شارات SVG داخل مجلد `/skills/` مرخصة بموجب [MIT](https://opensource.org/license/mit).
 >- 👤 جميع المحتويات الأخرى في هذا المستودع © [sandokan.cat](https://sandokan.cat). جميع الحقوق محفوظة.
 
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
+
 </details>
 
 ---
@@ -133,6 +163,12 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 >- 🖼️ `/skills/` 目录下的 SVG 徽章使用 [MIT](https://opensource.org/license/mit) 许可。
 >- 👤 本仓库的其他所有内容均 © [sandokan.cat](https://sandokan.cat)。保留所有权利。
+
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    </a>
+</div>
 
 </details>
 
