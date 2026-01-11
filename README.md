@@ -46,9 +46,9 @@ I’m passionate with clean, functional code. I train every day—both through f
 
 <div align="center">
     <!-- GH STATES -->
-    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&custom_title=sandokanCat+GitHub+Stats&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&border_radius=0&border_color=00000000&bg_color=000000,00000000,1d2a42&icon_color=ffcc00&ring_color=ffcc00&title_color=ffcc00&text_color=a0a0a0" style="display: block; margin: 0; padding: 0;"alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&custom_title=sandokanCat+GitHub+Stats&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&border_radius=0&border_color=545454&bg_color=000000&icon_color=ffcc00&ring_color=ffcc00&title_color=ffcc00&text_color=f0f0f0" style="display: block;"alt="GitHub Stats" />
     <!-- TOP LANGS -->
-    <img src="https://github-readme-stats-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&cache_seconds=1800&langs_count=20&layout=compact&border_radius=0&border_color=00000000&bg_color=000000,00000000,1d2a42&title_color=ffcc00&text_color=a0a0a0&card_width=467" style="display: block; margin: 0; padding: 0;" margin="0" padding="0" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&cache_seconds=1800&langs_count=20&layout=compact&border_radius=0&border_color=545454&bg_color=00000000&title_color=ffcc00&text_color=f0f0f0&card_width=467" style="display: block;" alt="Most Used Languages" />
 </div>
 
 ### ⚖️ Licensing
