@@ -46,7 +46,7 @@ I’m passionate with clean, functional code. I train every day—both through f
 
 <div align="center">
     <!-- GH STATES -->
-    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&custom_title=sandokanCat GitHub States&cache_seconds=1800&show_icons=true&bg_color=00000000&title_color=ffcc00&icon_color=ffcc00&ring_color=ffcc00&text_color=ffffff&border_color=a0a0a0" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sandokancat.vercel.app/api?username=sandokanCat&custom_title=sandokanCat GitHub States&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000&title_color=ffcc00&icon_color=ffcc00&ring_color=ffcc00&text_color=ffffff&border_color=a0a0a0" alt="GitHub Stats" />
     <!-- TOP LANGS -->
     <img src="https://github-readme-stats-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&cache_seconds=1800&langs_count=20&layout=compact&bg_color=00000000&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&border_color=a0a0a0&card_width=467" alt="Most Used Languages" />
 </div>
