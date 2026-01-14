@@ -24,6 +24,7 @@
 <h2 align="center">Data / Formats</h2>
 <div align="center">
     <img height="28" src="./skills/data/json.svg" alt="JSON" />
+    <img height="28" src="./skills/data/jwt.svg" alt="JWT" />
     <img height="28" src="./skills/data/xml.svg" alt="XML" />
 </div>
 
