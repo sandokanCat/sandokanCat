@@ -6,6 +6,11 @@
     <em>Fullstack Web Developer • Cybersecurity Enthusiast • Clean Code Advocate</em>
 </p>
 
+<h2 align="center">Learning About</h2>
+<div align="center">
+    <img height="28" src="./skills/blockchain/solidity.svg" alt="Solidity" />
+</div>
+
 <h2 align="center">Frontend</h2>
 <div align="center">
     <img height="28" src="./skills/frontend/html5.svg" alt="HTML5" />
