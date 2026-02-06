@@ -136,8 +136,8 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ---
 
-<details>
-<summary>العربية 🇸🇦</summary>
+<details dir="rtl">
+<summary>🇸🇦 العربية</summary>
 
 ## `FULLSTACK` مطوّر ويب
 
