@@ -59,11 +59,11 @@ I’m passionate about clean, functional code. I train every day—both through 
 
 ### ⚖️ Licensing
 
->- 🖼️ SVG badges inside the `/skills/` directory are licensed under the [MIT](https://opensource.org/license/mit) License.
+>- 🖼️ SVG badges inside the `/skills/` directory are licensed under the MIT License.
 >- 👤 All other content in this repository is © [sandokan.cat](https://sandokan.cat). All rights reserved.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./skills/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
@@ -79,11 +79,11 @@ Me apasiona el código limpio y funcional. Me formo a diario, tanto en academias
 
 ### ⚖️ Licencia
 
->- 🖼️ Los badges SVG dentro del directorio `/skills/` están licenciados bajo licencia [MIT](https://opensource.org/license/mit).
+>- 🖼️ Los badges SVG dentro del directorio `/skills/` están licenciados bajo licencia MIT.
 >- 👤 Todo el resto del contenido de este repositorio es © [sandokan.cat](https://sandokan.cat). Todos los derechos reservados.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./skills/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
@@ -101,11 +101,11 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ Llicència
 
->- 🖼️ Els badges SVG dins del directori `/skills/` estan sota llicència [MIT](https://opensource.org/license/mit).
+>- 🖼️ Els badges SVG dins del directori `/skills/` estan sota llicència MIT.
 >- 👤 La resta del contingut d’aquest repositori és © [sandokan.cat](https://sandokan.cat). Tots els drets reservats.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./skills/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
@@ -123,11 +123,11 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ Лицензия
 
->- 🖼️ SVG-бейджи в директории `/skills/` лицензированы по [MIT](https://opensource.org/license/mit).
+>- 🖼️ SVG-бейджи в директории `/skills/` лицензированы по MIT.
 >- 👤 Весь остальной контент этого репозитория © [sandokan.cat](https://sandokan.cat). Все права защищены.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./skills/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
@@ -145,11 +145,11 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ الترخيص
 
->- 🖼️ شارات SVG داخل مجلد `/skills/` مرخصة بموجب [MIT](https://opensource.org/license/mit).
+>- 🖼️ شارات SVG داخل مجلد `/skills/` مرخصة بموجب MIT.
 >- 👤 جميع المحتويات الأخرى في هذا المستودع © [sandokan.cat](https://sandokan.cat). جميع الحقوق محفوظة.
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./skills/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
@@ -167,11 +167,11 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ### ⚖️ 许可
 
->- 🖼️ `/skills/` 目录下的 SVG 徽章使用 [MIT](https://opensource.org/license/mit) 许可。
+>- 🖼️ `/skills/` 目录下的 SVG 徽章使用 MIT 许可。
 >- 👤 本仓库的其他所有内容均 © [sandokan.cat](https://sandokan.cat)。保留所有权利。
 
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
+    <a href="./skills/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
     </a>
 </div>
