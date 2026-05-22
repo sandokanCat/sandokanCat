@@ -2,9 +2,15 @@
 
 # Gonzalo Cabezas Núñez
 
+## 🇬🇧 `FULLSTACK` WEB DEVELOPER
+
+I’m passionate about clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
+
 <p align="center">
     <em>Fullstack Web Developer • Cybersecurity Enthusiast • Clean Code Advocate</em>
 </p>
+
+---
 
 <h2 align="center">Learning About</h2>
 <div align="center">
@@ -45,10 +51,6 @@
 </div>
 
 ---
-
-## 🇬🇧 `FULLSTACK` WEB DEVELOPER
-
-I’m passionate about clean, functional code. I train every day—both through formal courses and self-learning—because learning doesn’t stop when the bell rings. I like breaking things to understand (and fix) them better, which is why Red Teaming strongly appeals to me. I don’t follow the standard path; I prefer carving my own with a keyboard and coffee. I look for projects where I can learn, contribute, and leave a mark—without pretension or empty promises. If I don’t know something, I dig into it. And if something motivates me, I won’t stop until I get it right.
 
 <div align="center">
     <!-- GH STATES -->
@@ -180,10 +182,12 @@ M'apassiona el codi net i funcional. Em formo a diari, tant en academies com per
 
 ---
 
-```js
-// SIMPLE FUNCTION ⚡
-const hackThePlanet = () => { console.info("Pwned!"); };
-hackThePlanet();
+```py
+# SIMPLE FUNCTION ⚡
+def hack_the_planet():
+    print("Pwned!")
+
+hack_the_planet()
 ```
 
 <div align="center">
