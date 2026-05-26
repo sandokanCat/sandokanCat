@@ -30,12 +30,12 @@ Currently exploring blockchain development with Solidity and deepening my cybers
 
 <h3 align="center">Core Stack</h3>
 <div align="center">
-    <img height="28" src="./skills/frontend/html5.svg" alt="HTML5" />
-    <img height="28" src="./skills/frontend/css3.svg" alt="CSS3" />
-    <img height="28" src="./skills/frontend/js.svg" alt="JS" />
     <img height="28" src="./skills/backend/php.svg" alt="PHP" />
     <img height="28" src="./skills/backend/python.svg" alt="Python" />
     <img height="28" src="./skills/databases/sql.svg" alt="SQL" />
+    <img height="28" src="./skills/frontend/js.svg" alt="JS" />
+    <img height="28" src="./skills/frontend/html5.svg" alt="HTML5" />
+    <img height="28" src="./skills/frontend/css3.svg" alt="CSS3" />
 </div>
 
 <h3 align="center">GitHub Metrics</h3>
