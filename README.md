@@ -4,29 +4,29 @@
 
 ## 🇬🇧 FULLSTACK WEB DEVELOPER
 
-Developer focused on modular architectures, multilingual systems, web performance and security-oriented development.
+Developer focused on modular software architectures, secure web applications, multilingual systems and performance-oriented development.
 
-I enjoy building maintainable applications with lightweight vanilla-first approaches, strong CSP policies, reusable components and clean separation of concerns.
+I enjoy building maintainable applications with lightweight vanilla-first approaches, reusable components, strong security practices and clean separation of concerns.
 
 Currently exploring blockchain development with Solidity and deepening my cybersecurity knowledge with a growing interest in Red Teaming.
 
 ### Technical Focus
 
+- Modular software architectures
+- Secure backend integrations
 - Web performance optimization
-- Modular vanilla JavaScript architectures
 - Internationalization (i18n) systems
-- Content Security Policy hardening
 - Component-driven frontend design
 - Accessibility and semantic HTML
-- Secure backend integrations
+- Content Security Policy hardening
 
 ### Areas of Interest
 
-- Web Security
-- Modular Architectures
-- i18n
-- CSP Hardening
+- Cybersecurity
 - Blockchain Development
+- Privacy and Digital Integrity
+- Open Source Engineering
+- Data Analytics
 
 <h3 align="center">Core Stack</h3>
 <div align="center">
@@ -53,29 +53,29 @@ Currently exploring blockchain development with Solidity and deepening my cybers
 
 ## DESARROLLADOR WEB FULLSTACK
 
-Desarrollador centrado en arquitecturas modulares, sistemas multilingües, rendimiento web y desarrollo orientado a la seguridad.
+Desarrollador centrado en arquitecturas de software modulares, aplicaciones web seguras, sistemas multilingües y desarrollo orientado al rendimiento.
 
-Disfruto creando aplicaciones mantenibles con enfoques vanilla-first ligeros, políticas CSP robustas, componentes reutilizables y una separación clara de responsabilidades.
+Disfruto creando aplicaciones mantenibles con enfoques vanilla-first ligeros, componentes reutilizables, prácticas de seguridad sólidas y una separación clara de responsabilidades.
 
 Actualmente estoy explorando el desarrollo blockchain con Solidity y ampliando mis conocimientos en ciberseguridad, con un interés creciente en Red Teaming.
 
 ### Enfoque Técnico
 
+- Arquitecturas de software modulares
+- Integraciones backend seguras
 - Optimización del rendimiento web
-- Arquitecturas modulares en Vanilla JavaScript
 - Sistemas de internacionalización (i18n)
-- Endurecimiento de políticas CSP
 - Diseño frontend basado en componentes
 - Accesibilidad y HTML semántico
-- Integraciones backend seguras
+- Endurecimiento de políticas Content Security Policy (CSP)
 
 ### Áreas de Interés
 
-- Seguridad Web
-- Arquitecturas Modulares
-- i18n
-- Endurecimiento CSP
+- Ciberseguridad
 - Desarrollo Blockchain
+- Privacidad e Integridad Digital
+- Ingeniería Open Source
+- Análisis de datos
 
 </details>
 
@@ -86,29 +86,29 @@ Actualmente estoy explorando el desarrollo blockchain con Solidity y ampliando m
 
 ## DESENVOLUPADOR WEB FULLSTACK
 
-Desenvolupador centrat en arquitectures modulars, sistemes multilingües, rendiment web i desenvolupament orientat a la seguretat.
+Desenvolupador centrat en arquitectures de programari modulars, aplicacions web segures, sistemes multilingües i desenvolupament orientat al rendiment.
 
-Gaudeixo creant aplicacions mantenibles amb enfocaments vanilla-first lleugers, polítiques CSP robustes, components reutilitzables i una separació clara de responsabilitats.
+Gaudeixo creant aplicacions mantenibles amb enfocaments vanilla-first lleugers, components reutilitzables, pràctiques de seguretat sòlides i una separació clara de responsabilitats.
 
 Actualment estic explorant el desenvolupament blockchain amb Solidity i ampliant els meus coneixements en ciberseguretat, amb un interès creixent pel Red Teaming.
 
 ### Enfocament Tècnic
 
+- Arquitectures de programari modulars
+- Integracions backend segures
 - Optimització del rendiment web
-- Arquitectures modulars amb Vanilla JavaScript
 - Sistemes d’internacionalització (i18n)
-- Enduriment de polítiques CSP
 - Disseny frontend basat en components
 - Accessibilitat i HTML semàntic
-- Integracions backend segures
+- Enduriment de polítiques Content Security Policy (CSP)
 
 ### Àrees d’Interès
 
-- Seguretat Web
-- Arquitectures Modulars
-- i18n
-- Enduriment CSP
+- Ciberseguretat
 - Desenvolupament Blockchain
+- Privacitat i Integritat Digital
+- Enginyeria Open Source
+- Anàlisi de dades
 
 </details>
 
@@ -119,29 +119,29 @@ Actualment estic explorant el desenvolupament blockchain amb Solidity i ampliant
 
 ## FULLSTACK ВЕБ-РАЗРАБОТЧИК
 
-Разработчик, специализирующийся на модульных архитектурах, многоязычных системах, веб-производительности и разработке с упором на безопасность.
+Разработчик, специализирующийся на модульных программных архитектурах, безопасных веб-приложениях, многоязычных системах и разработке, ориентированной на производительность.
 
-Мне нравится создавать поддерживаемые приложения с использованием лёгких vanilla-first подходов, строгих CSP-политик, переиспользуемых компонентов и чёткого разделения ответственности.
+Мне нравится создавать поддерживаемые приложения с использованием лёгких vanilla-first подходов, переиспользуемых компонентов, надёжных практик безопасности и чёткого разделения ответственности.
 
 В настоящее время изучаю blockchain-разработку с использованием Solidity и углубляю знания в области кибербезопасности, проявляя всё больший интерес к Red Teaming.
 
 ### Техническая Специализация
 
+- Модульные программные архитектуры
+- Безопасные backend-интеграции
 - Оптимизация веб-производительности
-- Модульные архитектуры на Vanilla JavaScript
 - Системы интернационализации (i18n)
-- Усиление политик CSP
 - Компонентно-ориентированный frontend
 - Доступность и семантический HTML
-- Безопасные backend-интеграции
+- Усиление политик Content Security Policy (CSP)
 
 ### Области Интересов
 
-- Веб-безопасность
-- Модульные архитектуры
-- i18n
-- Усиление CSP
+- Кибербезопасность
 - Blockchain-разработка
+- Конфиденциальность и цифровая целостность
+- Open Source инженерия
+- Аналитика данных
 
 </details>
 
@@ -152,29 +152,29 @@ Actualment estic explorant el desenvolupament blockchain amb Solidity i ampliant
 
 ## FULLSTACK مطوّر ويب
 
-مطور يركز على البنى البرمجية المعيارية، والأنظمة متعددة اللغات، وأداء الويب، والتطوير الموجّه نحو الأمان.
+مطور يركز على البنى البرمجية المعيارية، وتطبيقات الويب الآمنة، والأنظمة متعددة اللغات، والتطوير الموجّه نحو الأداء.
 
-أستمتع ببناء تطبيقات قابلة للصيانة باستخدام أساليب vanilla-first خفيفة، وسياسات CSP قوية، ومكونات قابلة لإعادة الاستخدام، مع فصل واضح للمسؤوليات.
+أستمتع ببناء تطبيقات قابلة للصيانة باستخدام أساليب vanilla-first خفيفة، ومكونات قابلة لإعادة الاستخدام، وممارسات أمنية قوية، مع فصل واضح للمسؤوليات.
 
 أستكشف حالياً تطوير البلوكشين باستخدام Solidity، وأعمل على تعميق معرفتي بالأمن السيبراني مع اهتمام متزايد بمجال Red Teaming.
 
 ### التركيز التقني
 
+- بنى برمجية معيارية
+- تكاملات Backend آمنة
 - تحسين أداء الويب
-- بنى معيارية باستخدام Vanilla JavaScript
 - أنظمة التدويل (i18n)
-- تعزيز سياسات CSP
 - تصميم واجهات أمامية قائم على المكونات
 - إمكانية الوصول وHTML الدلالي
-- تكاملات Backend آمنة
+- تعزيز سياسات Content Security Policy (CSP)
 
 ### مجالات الاهتمام
 
-- أمن الويب
-- البنى المعيارية
-- i18n
-- تعزيز CSP
+- الأمن السيبراني
 - تطوير البلوكشين
+- الخصوصية والسلامة الرقمية
+- هندسة البرمجيات مفتوحة المصدر
+- تحليل البيانات
 
 </details>
 
@@ -185,29 +185,29 @@ Actualment estic explorant el desenvolupament blockchain amb Solidity i ampliant
 
 ## FULLSTACK 全栈网页开发者
 
-专注于模块化架构、多语言系统、Web 性能以及安全导向开发的开发者。
+专注于模块化软件架构、安全 Web 应用、多语言系统以及性能导向开发的开发者。
 
-我喜欢使用轻量化的 vanilla-first 方法、严格的 CSP 策略、可复用组件以及清晰的职责分离来构建易于维护的应用程序。
+我喜欢使用轻量化的 vanilla-first 方法、可复用组件、严格的安全实践以及清晰的职责分离来构建易于维护的应用程序。
 
 目前正在探索 Solidity 区块链开发，并持续深入学习网络安全，对 Red Teaming 方向也越来越感兴趣。
 
 ### 技术方向
 
+- 模块化软件架构
+- 安全的 Backend 集成
 - Web 性能优化
-- Vanilla JavaScript 模块化架构
 - 国际化（i18n）系统
-- CSP 安全策略加固
 - 基于组件的前端设计
 - 无障碍与语义化 HTML
-- 安全的 Backend 集成
+- Content Security Policy（CSP）安全策略加固
 
 ### 兴趣领域
 
-- Web 安全
-- 模块化架构
-- i18n
-- CSP 加固
+- 网络安全
 - 区块链开发
+- 隐私与数字完整性
+- 开源工程
+- 数据分析
 
 </details>
 
