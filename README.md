@@ -43,7 +43,7 @@ Currently exploring blockchain development with Solidity and deepening my cybers
     <!-- TOP LANGS -->
     <img src="https://github-stats-extended-sandokancat.vercel.app/api/top-langs/?username=sandokanCat&langs_count=19&layout=compact&border_radius=0&border_color=545454&bg_color=000000&title_color=ffcc00&text_color=f0f0f0&card_width=467" style="display: block;" alt="Most Used Languages" />
     <!-- GH STATS -->
-    <img src="https://github-stats-extended-sandokancat.vercel.app/api?username=sandokanCat&custom_title=sandokanCat%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&border_radius=0&border_color=545454&bg_color=000000&icon_color=ffcc00&ring_color=ffcc00&title_color=ffcc00&text_color=f0f0f0" style="display: block;"alt="GitHub Stats" />
+    <img src="https://github-stats-extended-sandokancat.vercel.app/api?username=sandokanCat&custom_title=Contribution%20Activity&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_authored,prs_commented,prs_reviewed,prs_merged,prs_merged_percentage,issues_authored,issues_commented&number_format=long&show_icons=true&border_radius=0&border_color=545454&bg_color=000000&icon_color=ffcc00&ring_color=ffcc00&title_color=ffcc00&text_color=f0f0f0" style="display: block;"alt="GitHub Stats" />
 </div>
 
 ---
