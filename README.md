@@ -223,7 +223,7 @@ Actualment estic explorant el desenvolupament blockchain amb Solidity i ampliant
 
 #### ⚖️ Licensing
 
->- 🖼️ SVG badges inside the [`/badges/`](https://github.com/sandokanCat/.github/tree/main/skills) directory are licensed under the <a href="https://github.com/sandokanCat/.github/blob/main/badges/LICENSE"><img src="https://img.shields.io/badge/license-MIT-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=ffffff&labelColor=545454" alt="MIT License"></a>.
+>- 🖼️ SVG badges inside the [`/badges/`](https://github.com/sandokanCat/.github/tree/main/skills) directory are licensed under the <a href="https://github.com/sandokanCat/.github/blob/main/badges/LICENSE"><img src="https://img.shields.io/badge/License-MIT-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=ffffff&labelColor=545454" alt="MIT License"></a>.
 >- 👤 Unless otherwise stated, all remaining repository content is proprietary and all rights are reserved. © [sandokan.cat](https://sandokan.cat)
 
 ```py
