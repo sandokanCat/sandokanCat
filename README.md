@@ -41,7 +41,8 @@ Currently exploring blockchain development with Solidity and deepening my cybers
 <h3 align="center">Open Source Contributions</h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/choosealicense.com-Merged-8957e5?style=flat-square&logo=github&logoColor=ffffff&labelColor=545454" alt="choosealicense.com — Merged">
+    <img src="https://img.shields.io/github/pulls/detail/state/github/choosealicense.com/1401?style=flat-square&logo=github&logoColor=%23fff&logoSize=auto&label=choosealicense.com%2Fpull%2F1401&labelColor=%23545454&cacheSeconds=1800&link=https%3A%2F%2Fgithub.com%2Fgithub%2Fchoosealicense.com%2Fpull%2F1401
+" alt="choosealicense.com/pull/1401 — merged">
 </div>
 
 - [github/choosealicense.com #1401](https://github.com/github/choosealicense.com/pull/1401) — Added GNU LGPLv3 summaries in five languages: Arabic, Spanish, Korean, Portuguese and Simplified Chinese.
