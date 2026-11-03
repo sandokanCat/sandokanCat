@@ -54,6 +54,7 @@ Currently exploring blockchain development with Solidity and deepening my cybers
     <img src="https://github-stats-extended-sandokancat.vercel.app/api?username=sandokanCat&custom_title=Contribution%20Activity&include_all_commits=true&show=prs_merged,prs_merged_percentage,prs_reviewed,discussions_started,discussions_answered,prs_authored,prs_commented,issues_authored,issues_commented&number_format=long&show_icons=true&border_radius=0&border_color=545454&bg_color=000000&icon_color=ffcc00&ring_color=ffcc00&title_color=ffcc00&text_color=f0f0f0" style="display: block;"alt="Contribution Activity" />
 </div>
 
+#### Would you prefer to send me a secure email?
 
 <details>
 <summary>🔒 PGP Public Key</summary>
